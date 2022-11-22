@@ -1,5 +1,9 @@
-hindu 
-sindu bindu 
-are the players
-add new players
-teena 
+S_Name = input ("Enter Student  name")
+S_Class= input ("Enter class")
+print("Student name is" S_Name)
+print("Class " S_Class)
+
+S_Name = input ("Enter Student  name")
+S_Class= input ("Enter class")
+print("Student name is" S_Name)
+print("Class " S_Class)
