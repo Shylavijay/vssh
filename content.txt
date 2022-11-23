@@ -1,1 +1,6 @@
-inserting the new txt
+inserting new text
+a= input(int("enter value for a"))
+b=input(int("enter value for b"))
+c=a+b
+print("sum of a and b = ")
+
